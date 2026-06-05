@@ -1,0 +1,5 @@
+.100_final/
+__pycache__/
+*.zip
+.DS_Store
+dataset/
